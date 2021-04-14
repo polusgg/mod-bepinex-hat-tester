@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HatTester", "HatTester\HatTester.csproj", "{60ECF697-3931-4E15-A9C8-B787F41DB177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60ECF697-3931-4E15-A9C8-B787F41DB177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60ECF697-3931-4E15-A9C8-B787F41DB177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60ECF697-3931-4E15-A9C8-B787F41DB177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60ECF697-3931-4E15-A9C8-B787F41DB177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

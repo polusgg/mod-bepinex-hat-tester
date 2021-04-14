@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/.idea.HatTester.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../:\among us\HatTester\.idea\.idea.HatTester\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
